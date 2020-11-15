@@ -1,0 +1,16 @@
+{
+  "name": "trash-talk",
+  "version": "1.0.0",
+  "description": "The world's worst social media website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DVEC95",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.10.14"
+  }
+}
