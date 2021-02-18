@@ -10,3 +10,8 @@
 	margin: auto;
 	padding-top: 20px
 }
+
+.ui.red.button:focus, .ui.red.buttons .button:focus{
+	background-color: red;
+}
+
